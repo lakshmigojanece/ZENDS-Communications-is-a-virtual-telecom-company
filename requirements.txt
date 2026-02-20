@@ -1,0 +1,11 @@
+
+streamlit
+transformers
+sentence-transformers
+faiss-cpu
+datasets
+torch
+pandas
+numpy
+accelerate
+openai
